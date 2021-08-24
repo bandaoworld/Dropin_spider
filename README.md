@@ -1,2 +1,0 @@
-# Dropin_spider
-一个Dropin多频app的python爬虫
