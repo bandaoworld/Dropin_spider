@@ -1,0 +1,23 @@
+{
+ "pageNum": 1,
+ "pageSize": 10,
+ "params": {},
+ "relationEncy": "[{\"id\":36744,\"typeId\":11,\"dataId\":595,\"name\":\"社区信号与发布\",\"url\":\"http://dropinapp.hearinmusic.com/#/ency?typeId=11&dataId=595\"},{\"id\":36751,\"typeId\":11,\"dataId\":596,\"name\":\"社区评论、点头和捕捉\",\"url\":\"http://dropinapp.hearinmusic.com/#/ency?typeId=11&dataId=596\"},{\"id\":36752,\"typeId\":11,\"dataId\":597,\"name\":\"社区频段和搜索\",\"url\":\"http://dropinapp.hearinmusic.com/#/ency?typeId=11&dataId=597\"},{\"id\":36753,\"typeId\":11,\"dataId\":598,\"name\":\"社区反馈和举报\",\"url\":\"http://dropinapp.hearinmusic.com/#/ency?typeId=11&dataId=598\"},{\"id\":36754,\"typeId\":11,\"dataId\":599,\"name\":\"社区头像框调频与等级\",\"url\":\"http://dropinapp.hearinmusic.com/#/ency?typeId=11&dataId=599\"}]",
+ "content": "<p><strong><em>&mdash;&mdash;&ldquo;寓教于乐，看看大家是不是真的了解电子音乐</em></strong><strong><em>&rdquo;</em></strong></p>\n<p>&nbsp;</p>\n<p>机智的DROPUCER们一定早已发现，在社区里刷着刷着就会看到各种和电子音乐相关的题目。只要看到想挑战的题目，只需要点击你认为正确的选项即可完成作答并获取结果</p>\n<p style=\"text-align: center;\"><img src=\"https://duopin-community.oss-cn-shenzhen.aliyuncs.com/image/2021/8/c9fx5t5qxbmg6zn6pkp1.gif\" alt=\"\" width=\"350\" height=\"758\" /></p>\n<p>&nbsp;</p>\n<p>同时，你也可以看到社区里的DROPUCER们是否和你一样聪明：</p>\n<p style=\"text-align: center;\"><img src=\"https://duopin-community.oss-cn-shenzhen.aliyuncs.com/image/2021/8/chzprf808m8sot2xywmm.jpg\" width=\"350\" height=\"249\" /></p>\n<p>&nbsp;</p>\n<p>完成答题后，如有相关百科知识点在下方弹出，可以点击了解更多详情：</p>\n<p style=\"text-align: center;\"><img src=\"https://duopin-community.oss-cn-shenzhen.aliyuncs.com/image/2021/8/fwmkxmpfmnkh2n35y3z6.gif\" alt=\"\" width=\"350\" height=\"758\" /></p>\n<p>&nbsp;</p>\n<p>动动手指动动脑，也许你就是社区的知识之王呢！</p>",
+ "contentEn": "",
+ "remarks": "本词条内容由 @多频官方团队 编辑",
+ "remarksEn": "本词条内容暂未完善仅供参考，多频百科小编正在火速赶来",
+ "status": 1,
+ "clickNum": 60,
+ "deleted": 0,
+ "lang": 0,
+ "chooseLang": false,
+ "id": 600,
+ "name": "社区互动答题模块",
+ "categoryText": "多频社区",
+ "descriptions": "如何玩转社区内的互动答题“频一频”？",
+ "typeId": 11,
+ "typeName": "其他",
+ "dataId": 600,
+ "url": "http://dropinapp.hearinmusic.com/#/ency?typeId=11&dataId=600"
+}
