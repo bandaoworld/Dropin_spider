@@ -1,0 +1,223 @@
+#Madchester
+##基本信息
+###发源时间：20世纪80年代末
+###风格类型：Alternative Dance
+##详情
+Madchester是20世纪80年代末在英国城市曼彻斯特发展起来的一个音乐和文化场景，与indie-dance场景密切相关。Indie-
+dance(有时也被称为indie-rave)是指艺术家们将indie-rave与acid house、rave music、psychedelia
+和20世纪60年代流行音乐的元素相结合。"Madchester"一词是由Factory Records的Tony
+Wilson首创的，这个厂牌在90年代初被英国的音乐媒体普及，最著名的团体包括Stone Roses、Happy Mondays、Inspiral
+Carpets、the Charlatans、James和808 State。人们普遍认为它深受毒品，尤其是MDMA的影响。当时，由 "New Order
+"乐队成员共同拥有的Haçienda夜总会，是该市独特音乐风气的重要催化剂，被称为 "Second Summer of Love"。
+
+
+
+**Pre-Madchester**
+
+在Madchester时代到来之前，Madchester的音乐界一直由The Smiths, New Order, and The
+Fall所主导，他们对Madchester的音乐界产生了重大影响。1982年5月，由Factory
+Records发起的Haçienda夜总会开业，对Madchester流行文化的发展也有影响。在其成立的最初几年，俱乐部主要播放以俱乐部为导向的流行音乐，并举办了包括New
+Order、Cabaret Voltaire、Culture Club、Thompson Twins和Smiths在内的艺术家的演出。它的DJ包括Hewan
+Clarke和Greg Wilson，并在1986年将重点从一个现场场所转向舞厅。1987年，Hacienda开始播放House音乐，DJ Mike
+Pickering、Graeme Park和 "Little "Martin Prendergast在周五举办 "Nude
+Night"。1986年7月，由Factory Records组织的第十届夏季音乐节帮助巩固了Madchester作为alternative
+pop文化中心的地位。该音乐节包括电影放映、音乐研讨会、艺术表演和城市最著名乐队的演出，包括在曼彻斯特G-Mex举行的全天演出，由A Certain
+Ratio、Smiths、New Order和The Fall组成。据戴夫-哈斯勒姆（Dave Haslam）说，这次音乐节证明了
+"这座城市已经成为演奏尖端音乐的大人物的代名词。个人受到了启发，城市也被激发了活力；它自己的意志，不受控制。1987年初，Haçienda从持续亏损到售罄。在1987年，它举办了美国house艺术家的演出，包括Frankie
+Knuckles和Adonis。
+
+
+
+曼彻斯特地区的其他俱乐部也开始追捧House音乐，包括市中心的Devilles、Isadora's、Konspiracy、House、Soundgardens和Man
+Alive、Ashton-under-Lyne的Bugsy's和Miles
+Platting的Osbourne俱乐部。Madchester的建立的另一个关键因素是，1987年开始，毒品MDMA突然在该市出现，并在第二年增长.根据Haslam的说法，"毒品的使用永远地改变了俱乐部；在Haçienda，从一个伟大的夜晚变成了一个激烈的、改变生活的体验。"
+英国的音乐场景是这样的，《卫报》后来说："80年代看起来注定要在音乐上黯然收场。"
+Madchester运动蓬勃发展，因为它的声音新颖，令人耳目一新，很快就受到了欢迎。1989年，New Order发行了受acid
+house影响的Technique，在英国专辑榜上名列前茅，石玫瑰（Stone Roses）和快乐星期一（Happy
+Mondays）等艺人的音乐开始在榜单上崭露头角。艺人的早期生涯；虽然Madchester的音乐场景不能说在1988年之前就已经开始了（"Madchester
+"这个词直到一年后才由Factory Records的视频导演Philip
+Shotton创造出来），但许多最重要的乐队和艺人在那之前就已经出现在当地的音乐场景中了。1983年，主唱Ian Brown和吉他手John
+Squire在Timperley的同一条街上长大，组成了The Stone Roses。他们从1980年开始就一起参加乐队，但Stone
+Roses是第一个发行唱片的人。"So Young" in 1985. 阵容由鼓手Alan "Reni" Wren和贝斯手Gary "Mani"
+Mounfield完成。The Happy Mondays于1980年在索尔福德成立。从那时到1992年乐队解散，成员有Shaun
+Ryder、他的兄弟Paul、Mark "Bez" Berry、Paul Davis、Mark Day和Gary Whelan。他们与Factory
+Records签约，据说是在Haçienda DJ Mike Pickering在Battle of the
+Bands比赛中看到了他们，并在比赛中获得最后一名。他们在1985年发行了两首单曲--由Pickering制作的 "45 "和1986年由New
+Order的Bernard Sumner制作的 "Freaky Dancin'"，然后在1987年发行了一张由John
+Cale制作的专辑，名为《Squirrel and G-Man Twenty Four Hour Party People Plastic Face
+Carnt Smile》（White Out）。
+
+
+
+Inspiral Carpets于1983年在Oldham成立。他们的阵容是Clint Boon（管风琴）、Stephen Holt（主唱；Tom
+Hingley直到1989年初才加入）、Graham Lambert（吉他）、Martyn Walsh（贝斯）和Craig
+Gill（鼓）。他们在一年后发行了一张软盘，1988年的Planecrash EP（由他们自己的Cow Records发行）John
+Peel注意到了他们。1982年，James由Paul Gilbertson和Jim Glennie（乐队以他们的名字命名）组建，招募了主唱Tim
+Booth和鼓手Gavan Whelan（Gilbertson和Whelan在乐队获得商业成功之前就离开了乐队）。1983年，他们在Factory
+Records发行了他们的第一张EP《Jimone》，并吸引了评论界的热情和Morrissey的赞助。他们为Blanco y Negro
+Records发行的两张专辑《Stutter》和《Strip-
+mine》在1986年和1988年的销量令人失望；在Madchester开始的时候，乐队正通过Rough Trade
+Records用T恤衫销售来资助自己的发行。Madchester帮助他们带来了商业上的成功，单曲 "Sit Down
+"成为了那个时代最流行的国歌之一。808 State由Oldham街的Eastern Bloc Records店主Martin Price、Graham
+Massey和Gerald Simpson于1987年组成。三人组成了创新的现场acid
+house组合，在城里的各个场所进行表演，并在Price自己的厂牌上发行了一张广受好评和影响的专辑《Newbuild》。辛普森在Newbuild发行后不久就离开了，但继续以A
+Guy Called Gerald的名义进行录音。起步 1988年10月，Stone Roses乐队发行了单曲 "Elephant
+Stone"。大约在同一时间，Happy Mondays发行了单曲 "Wrote for Luck"（随后发行了由Martin
+Hannett制作的Bummed专辑）。11月，A Guy Called Gerald发行了第一首个人单曲 "Voodoo Ray"。只有 "Voodoo
+Ray "取得了商业上的成功，但到了12月，英国的音乐媒体已经开始有了一种感觉，那就是这座城市正在发生一些事情。
+
+
+
+据Sean O'Hagan在《NME》杂志上写道："有一种特别可信的音乐界谣言，即某些北方城镇--Madchester就是最好的例子--
+他们的供水已经被小剂量的化学物质处理过。从Happy Mondays到严重迷失方向的Morrissey，每个人都在某种程度上符合这个理论。" The
+Stone Roses乐队的追随者越来越多，因为他们在全国各地演出，并在1989年2月发行了 "Made of Stone
+"单曲。这首单曲没有上榜，但当他们在3月发行首张专辑（由John Leckie制作）时，音乐媒体对乐队的热情更加高涨。Bob
+Stanley（后来的Saint Etienne）在Melody Maker上评论Stone
+Roses的专辑时写道："这简直是我一生中听到的最好的首张唱片。NME没有这么强烈的评价，但还是报道说这是 "有史以来最伟大的专辑"。John
+Robb在Sounds杂志上给了这张专辑9/10的评价，并说Stone Roses
+"彻底改变了英国的流行音乐"。1988年和1989年，Madchester的夜店继续发展，1988年夏天，Haçienda推出了以Ibiza为主题的夜店，同年11月推出了
+"Hot" acid house night（由Mike Pickering和Jon DaSilva主持）。
+
+
+
+Baggy "baggy "的声音一般包括funk, psychedelia, guitar rock, 和house
+music音乐的结合。在Madchester的语境中，这种音乐可以看作是主要受到了80年代主导城市乐坛的indie music的影响，但同时也吸收了通过
+"Haçienda "夜总会而来的各种影响。随着音乐的发展，一种新的穿衣方式出现了，这也是宽松裤的名字。宽松的牛仔裤（通常是喇叭裤，裤子通常由Shami
+Ahmed的 "Joe Bloggs
+"品牌生产）与鲜艳或扎染的休闲上衣和一般的60年代风格一起，首先在Madchester，然后在全国范围内成为时尚，经常用Stone
+Roses乐队鼓手Alan "Reni "Wren所戴的渔夫帽作为装饰。整体造型是部分狂欢、部分复古或部分嬉皮、部分足球休闲。
+
+
+
+许多Madchester乐队都有足球粉丝，不少乐队甚至穿着足球衫。
+
+
+
+**越来越成功**
+
+在1989年中期，媒体对Madchester现场的兴趣持续增长。9月，Happy Mondays发行了Vince Clarke混音的 "Wrote for
+Luck "作为单曲。11月，四首重要的单曲问世。Inspiral Carpets的 "Move"，808 State的 "Pacific
+State"，Happy Mondays的EP Madchester Rave On和Stone Roses的 "Fools Gold"/"What the
+World is Waiting For"。Happy Mondays唱片的主打歌 "Hallelujah!"创造了 "Madchester "这个词--
+它最初是由他们的视频导演Bailey兄弟提出的，作为潜在的T恤口号。11月，Stone Roses在伦敦的Alexandra
+Palace进行了一场演出，并被邀请到BBC二台的高级节目Late Show（在他们的演出过程中，电源被噪音限制电路切断，歌手Ian
+Brown在主持人试图连接到下一个项目时大喊 "Amateurs, amateurs"）。1989年11月23日， Stone Roses 和the
+Happy Mondays 出现在同一期的《流行音乐榜》上。"Fools Gold"
+单曲在英国单曲榜上排名第8，成为当年最畅销的独立单曲。Madchester从这个时候开始成为了业界的风云人物。根据NME记者Stuart
+Maconie的说法，英国媒体 "为曼彻斯特乐队而疯狂"。James是第一批受益者之一。他们自费发行的单曲 "Come Home "和 "Sit Down
+"在当地获得了成功，并与Fontana签订了合约，他们在1990年夏天以 "How Was it For You "和重新录制的 "Come Home
+"版本获得了排行榜上的冠军。Charlatans通过在曼彻斯特的演出而崭露头角，尤其是作为Stone
+Roses的支持演出，并与现场紧密相连。他们在1989年10月发行了首张单曲 "Indian Rope"，第二张单曲 "The Only One I
+Know "进入了英国前十名。其他一些曼彻斯特乐队在1990年获得了音乐媒体的关注，包括World of Twist、New Fast Automatic
+Daffodils、the High、Northside、the Paris Angels和Intastella。这些 "第二波 "乐队，根据约翰-
+罗布的说法，"应对了评论界的反击，但却创造了伟大的音乐"，他们也得到了大量的本地支持，在电视上出现在各种Granada节目和本地电台播放。
+
+
+
+**商业上的成功**
+
+Madchester场景相关的乐队几乎只在独立唱片公司发行材料，但James是个重要的例外，他在1989年与Fontana唱片公司签约。Madchester越来越受欢迎，这不仅仅是Madchester当地的趋势，1990年的《新闻周刊》杂志上出现了一篇题为
+"Stark Raving Madchester "的文章，描述了Madchester的场景。一些与 "场景
+"相关的独立音乐人在英国单曲和专辑排行榜上的成功在当时是前所未有的。Happy Mondays的 "Step On "和 "Kinky Afro
+"都登上了单曲榜的第五名，而James则凭借重新录制的 "Sit Down
+"在1991年登上了第二名，成为Madchester的最大热门。在专辑榜上，Happy Mondays凭借Pills 'n'
+Thrills和Bellyaches排名第四，Inspiral Carpets凭借Life排名第二。The
+Charlatans是唯一一支在1990年秋天凭借专辑《Some
+Friendly》获得第一名的Madchester乐队。在英国以外的地区，Madchester的成功是有限的，尽管有些专辑在世界各地的专业排行榜上获得了认可。在美国，《The
+Stone Roses》、《Pills 'n' Thrills》和《Bellyaches》以及《Some
+Friendly》这几张专辑在美国专辑榜上排名较低。The Stone Roses、Inspiral Carpets、The Happy
+Mondays和The Charlatans的几首单曲在Billboard现代摇滚曲目榜上获得成功。Happy
+Mondays于1990年在美国巡回演出，并在Billboard Hot 100排行榜上名列前茅，其中 "Step On
+"在1990年达到第57位。他们还在1990年以 "Kinky Afro "登上了现代摇滚曲目榜的第一名。
+
+
+
+唯一一个在现代摇滚曲目榜上排名第一的Madchester艺术家是Charlatans，他们的单曲 "Weirdo "在1992年5月23日的一周内排名第一。
+
+
+
+**衰落**
+
+1990年5月27日，Stone Roses在Widnes的Spike Island演出，由DJ Frankie Bones、Dave
+Haslam、Phonso Buller和Dave Booth助阵。这场音乐会被形容为 "Woodstock for the E
+generation"。夏天，一系列的热门歌曲接踵而至，包括Stone Roses的 "One Love"，Inspiral Carpets的 "This
+Is How It Feels"，Charlatans的 "The Only One I Know "和Happy Mondays的 "Kinky
+Afro"。年底，James的演唱会取得了胜利，Happy Mondays 和808 State的两场演唱会都在曼彻斯特G-Mex举行。The Stone
+Roses乐队取消了1990年6月的美国巡演，并发表新闻声明说："美国还不配拥有我们"。然而，他们的首张专辑当年在美国的销量超过了35万张。乐队还取消了在西班牙的一场演出和在英国聊天节目《Wogan》中的亮相。直到1994年年底，他们才再次面对公众，这段时间他们在威尔士的录音棚里进进出出，在那里他们录制了专辑《Second
+Coming》，并在法庭上争取与Silvertone唱片公司解除合同。下一张Happy Mondays专辑《Yes
+Please！》的制作也是问题重重，直到1992年10月才发行。乐队飞到Barbados去录音，据Paul Ryder说是 "疯了"，多次向Factory
+Records提出要求，要求增加时间和资金。这被认为是1992年11月唱片公司破产的主要原因。随着这两支被视为现场最核心的乐队失去了流行，媒体对Madchester的迷恋也逐渐减少。James、Inspiral
+Carpets、the Charlatans和808
+State在90年代继续录制了不同程度的成功，但不再被视为本地场景的一部分。当地乐队抓住了Madchester的尾巴，比如Mock
+Turtles，成为了更广泛的baggy场景的一部分。英国的音乐媒体开始把更多的注意力放在英格兰南部的shoegazing
+乐队和美国的grunge场景上，这反过来又被曼彻斯特的Oasis和伦敦的Blur等Britpop乐队所取代。
+
+
+
+唯一一个在现代摇滚曲目榜上排名第一的Madchester艺术家是Charlatans，他们的单曲 "Weirdo "在1992年5月23日的一周内排名第一。
+
+
+
+**衰落**
+
+1990年5月27日，Stone Roses在Widnes的Spike Island演出，由DJ Frankie Bones、Dave
+Haslam、Phonso Buller和Dave Booth助阵。这场音乐会被形容为 "Woodstock for the E
+generation"。夏天，一系列的热门歌曲接踵而至，包括Stone Roses的 "One Love"，Inspiral Carpets的 "This
+Is How It Feels"，Charlatans的 "The Only One I Know "和Happy Mondays的 "Kinky
+Afro"。年底，James的演唱会取得了胜利，Happy Mondays 和808 State的两场演唱会都在曼彻斯特G-Mex举行。The Stone
+Roses乐队取消了1990年6月的美国巡演，并发表新闻声明说："美国还不配拥有我们"。然而，他们的首张专辑当年在美国的销量超过了35万张。乐队还取消了在西班牙的一场演出和在英国聊天节目《Wogan》中的亮相。直到1994年年底，他们才再次面对公众，这段时间他们在威尔士的录音棚里进进出出，在那里他们录制了专辑《Second
+Coming》，并在法庭上争取与Silvertone唱片公司解除合同。下一张Happy Mondays专辑《Yes
+Please！》的制作也是问题重重，直到1992年10月才发行。乐队飞到Barbados去录音，据Paul Ryder说是 "疯了"，多次向Factory
+Records提出要求，要求增加时间和资金。这被认为是1992年11月唱片公司破产的主要原因。随着这两支被视为现场最核心的乐队失去了流行，媒体对Madchester的迷恋也逐渐减少。James、Inspiral
+Carpets、the Charlatans和808
+State在90年代继续录制了不同程度的成功，但不再被视为本地场景的一部分。当地乐队抓住了Madchester的尾巴，比如Mock
+Turtles，成为了更广泛的baggy场景的一部分。英国的音乐媒体开始把更多的注意力放在英格兰南部的shoegazing
+乐队和美国的grunge场景上，这反过来又被曼彻斯特的Oasis和伦敦的Blur等Britpop乐队所取代。
+
+
+
+**音乐影响**
+
+Madchester的直接影响是对英国更广泛的baggy运动的启发，在90年代早期，来自英国各地的乐队制作的音乐深受Madchester主要演奏者的影响。这些乐队包括Flowered
+Up（来自伦敦）、the Farm and the Real People（来自利物浦）、the Bridewell Taxis（来自利兹）、the
+Soup Dragons（来自格拉斯哥）和Ocean Colour
+Scene（来自伯明翰）。来自科尔切斯特的Blur在他们早期的职业生涯中采用了宽松的风格，尽管在1991年接受《Select
+Magazine》的采访时，他们声称已经 "杀死
+"了这种风格。Blur与来自曼彻斯特的Britpop乐队Oasis在整个90年代都有着著名的竞争关系。在Madchester时代组建的乐队包括Chemical
+Brothers、The Verve、Sub Sub（后来成为Doves）和Oasis（Noel Gallagher曾是Inspiral
+Carpets的路人）。
+
+
+
+更普遍的是，Madchester场景将EDM和alternative rock结合在一起，特别是将funk 和disco
+music中的鼓点类型（以及80年代嘻哈音乐中的样本）与jingle-
+jangle的吉他结合在一起。在20世纪90年代，这成了一个常见的公式，甚至经常出现在最商业化的音乐中。在Madchester运动之后的几年里，曾有过无数次投票，以寻找那个时代最好的歌曲。2005年，A
+Guy Called Gerald的 "Voodoo Ray "被选为Madchester现场的最佳歌曲。这首歌击败了Happy Mondays的《Step
+On》和Stone Roses的《Waterfall》获得第一名。2010年，由 New Order的Peter
+Hook管理的新夜总会FAC251在曼彻斯特开张，音乐上强调的是Madchester的音乐。虽然到了90年代中期，Madchester逐渐衰落，但各种乐队还是进行了改革，进行了一次性的巡回演唱会。2012年改革的著名乐队包括the
+Stone Roses, the Happy Mondays 和the Inspiral Carpets乐队。《卫报》评论家佩妮-安德森（Penny
+Anderson）对这一场景评价不高，称其为 "激进的市场化平庸的温床"。这个场景的声音影响了U2的电子和舞蹈专辑《Achtung
+Baby》。《滚石》杂志的Elysa Gardner将专辑中舞曲节拍的层次感融入吉他重音的混音中，与英国乐队Happy Mondays和Jesus
+Jones的歌曲相提并论。"Mysterious Ways "结合了时髦的吉他riff和舞曲、康加舞曲的节拍，被Bono称为 "U2最时髦的时候"。Sly
+and The Family Stone meets Madchester baggy"。它还影响了The Cure的歌曲 "Never Enough"。
+
+
+
+对曼彻斯特的影响
+
+Madchester时期曼彻斯特夜生活的茂盛对曼彻斯特产生了长期的影响，尤其是后来发展起来的同性恋村和北区。城市中心生活也是在Madchester之后流行起来的，并一直延续至今。城市的吸引力，以至于在1990年Madchester最鼎盛的时候，曼彻斯特大学是英国大学申请者最抢手的目的地。这个场景也推动了城市的媒体和创意产业的发展。第四频道的《The
+Word》已经取得了巨大的成功，在它之后，英国广播公司（BBC）推出了一个周六早上的儿童电视节目《The 8:15 From
+Manchester》（由Inspiral Carpets的主题曲，《找出原因》的改编），格拉纳达电视台（Granada
+Television）也跃跃欲试，推出了一个廉价版的《The Word》，名为《Juice》，由约翰-布拉姆威尔（John Bramwell）和琼-
+柯林斯的女儿塔拉-
+纽利主持。有组织犯罪成了Madchester不幸的副业，城市中俱乐部的活力（以及非法毒品，特别是摇头丸的流行）为机会主义黑帮提供了肥沃的环境。在Haçienda发生的暴力事件导致Madchester警方对其进行打击，并促使其在1997年关闭。20世纪90年代末，曼彻斯特北区的奥德汉姆街被委托建造了一条Madchester音乐名人步道。步行道包括为每个音乐团体设置一块三角形的石板，并向
+the Stone Roses, the Happy Mondays, Inspiral Carpets、808
+State和James等乐队致敬。一块蓝色的牌匾标志着The
+Boardwalk的位置，它是另一个对Madchester场景具有开创性意义的俱乐部，Oasis在那里举行了他们的第一次演出，Dave
+Haslam主持了Yellow俱乐部之夜，直到俱乐部在1999年关闭。上面写着
+"Madchester场地夜总会和排练室"，下面有一个黄色的笑脸。Funkademia是1995年在Boardwalk开始的俱乐部之夜，现在仍然在北区的Mint
+Lounge举行。
+
+###本词条内容由 @多频百科团队 翻译+编辑
+原文译自 https://en.wikipedia.org/wiki/Madchester
+###http://dropinapp.hearinmusic.com/#/ency?typeId=13&dataId=308

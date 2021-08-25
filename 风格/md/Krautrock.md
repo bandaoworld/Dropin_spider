@@ -1,0 +1,112 @@
+#Krautrock
+##基本信息
+###发源时间：Late 1960s
+###风格类型：Electronic Rock
+##详情
+Krautrock（也叫kosmische
+Musik，德语：宇宙音乐）是20世纪60年代末和70年代初在西德发展起来的一种广泛的实验性摇滚乐流派，在艺术家中融合了迷幻摇滚、电子音乐和前卫创作的元素。这些艺术家摆脱了传统英美摇滚乐中的蓝调影响和歌曲结构，而是利用催眠节奏、磁带音乐技术和早期的合成器。与德国摇滚音乐相关的著名团体包括Can、Neu！、Amon
+Dul II、Faust、Popol Vuh、Cluster、Ash Ra Tempel、Agitation Free、Guru
+Guru、Tangerine Dream、Kraftwerk和Harmonia。
+
+
+
+英国媒体最初采用了 "Krautrock
+"这个词，作为德国多元化场景的幽默标签，尽管许多被贴上标签的艺术家不喜欢这个词。这场运动部分源于1968年激进的学生运动，因为德国青年反抗他们国家在第二次世界大战中遗留下来的音乐产物，并寻求一种有别于传统德国音乐和美国流行音乐的流行音乐。这一时期为ambient
+music和techno的发展做出了贡献，并影响了后来的post-punk, new-age music, 和post-rock等流派。
+
+
+
+历史 起源和影响
+Krautrock是一个广泛的标签，包括了20世纪60年代和70年代早期在西德出现的各种声音和艺术家。音乐的灵感部分来自于广泛的文化发展，如1968年德国革命的学生运动，许多年轻人对政治和美学都有关注。青年人对美国的主导影响和德国保守的娱乐方式（如schlager音乐）进行反叛，试图从二战中德国纳粹的影响中解放出来，并创造一种新的流行文化。"Cluster
+"和 "Harmonia "乐队的迪特-莫比乌斯（Dieter
+Moebius）指出："我们很多时候都是在街头而不是在学习。作为年轻人，我们并不以自己是德国人为荣，我们都听腻了糟糕的德国音乐和模仿的美国音乐。总得发生点什么。"
+在这场运动中，艺术家们融合了各种流派的元素，如psychedelic rock、电子音乐的前卫形式、funk节奏、jazz即兴和 "民族
+"音乐风格，典型地反映了一种 "真正的敬畏和惊奇感"。
+
+
+
+对这些德国艺术家的核心影响包括前卫作曲家Karlheinz Stockhausen和Terry Riley，以及the Mothers of
+Invention, the Velvet Underground, the Beatles, and Pink
+Floyd等乐队。一个重要的影响是美国极简主义者的作品，如莱利、托尼-康拉德和拉蒙特-杨，以及60年代末爵士音乐家迈尔斯-
+戴维斯的专辑。一些艺术家从20世纪的古典音乐和musique concrete，特别是作曲家施托克豪森（例如，坎的Irmin Schmidt和Holger
+Czukay曾向他学习），以及60年代和70年代爵士乐中出现的新的实验方向（主要是Ornette Coleman或Albert
+Ayler的自由爵士乐作品）中吸取了灵感。注意到吉米-亨德里克斯和詹姆斯-
+布朗对Krautrock音乐人的影响。摆脱了美国和英国摇滚乐的歌曲结构和旋律模式，一些人被更多的机械和电子声音所吸引。
+
+
+
+**词源**
+
+直到1973年左右，"Deutsch-Rock"（"德国摇滚"）这个词被用来指代来自西德的新团体。"Krautrock "原本是英国唱片师John
+Peel或英国音乐报纸《Melody
+Maker》在70年代初创造的一个幽默名词，实验性的德国乐队在其中发现了一批早期的热情追随者，并讽刺地被其从业者保留了下来。这个词来自于民族的污言秽语
+"kraut"，音乐媒体使用这个词的灵感来自于（Amon Dul）的Psychedelic Underground中的一首名为 "Mama Dul und
+ihre Sauerkrautband spielt auf"（《Mama Dul and her Sauerkrautband Strike
+Up》）的歌曲。根据作者乌尔里希-阿德尔特（Ulrich Adelt）的说法，德语中的 "kraut
+"可以指草药、杂草和毒品。其他被英国音乐媒体抛出的名字是 "日耳曼摇滚 "和 "Gotterdammer摇滚"。西德的音乐媒体最初将 "Krautrock
+"作为贬义词使用，但当这种音乐在英国获得成功后，这个词就失去了它的烙印。其音乐人倾向于拒绝接受 "krautrock "这个名字。音乐学家朱利安-
+科普（Julian
+Cope）在他的《Krautrocksampler》一书中说："Krautrock是一种主观的英国现象"，它是基于音乐在英国被接受的方式，而不是基于它所生长的西德音乐场景。例如，虽然最初被贴上Krautrock标签的主要团体之一Faust录制了一首12分钟的开创性歌曲，他们将其命名为
+"Krautrock"，但他们后来与这个词保持了距离，他们说。"当英国人开始谈论Krautrock时，我们认为他们只是在开玩笑... 当你听到所谓的
+"Krautrock复兴 "时，我觉得我们所做的一切都白费了。"
+
+
+
+**音乐元素**
+
+Krautrock被描述为一个广泛的流派，包含了各种不同的方法，不过The
+Quietus指出，该流派中的大多数音乐，"尽管它是多样化的，但对电子、质感和重复有共同的兴趣。"Shindig！将这种风格总结为 "electronic
+sounds, rock music, 和psychedelia音乐的拼贴"，其典型特点是 "即兴和催眠、极简的节奏"。
+
+
+
+Los Angeles Magazine将这种风格总结为 "美国psychedelica与冰冷的德国式疏离感的结合"。评论家Simon
+Reynolds将这种风格描述为 "60年代末acid rock的过度野心和不受约束的怪异性被一种 proto-punk
+minimalism所遏制和激发......音乐规模巨大，奇迹般地避免了prog-rock的轰炸性"。AllMusic将其描述为扩展了与art rock
+and progressive rock相关的音乐探索，但与美国和英国乐队强调爵士和古典元素的做法不同，而是
+"一种前卫而非摇滚乐的沉闷、脉动的声音"。根据《The Line of Best Fit》的说法，一些典型的特征包括
+"稳定的4/4节拍、催眠的、沉闷的节奏和闪烁的键盘"。艺术家们使用了早期的合成器，并尝试了磁带音乐技术.Pitchfork表示，这种类型
+"在其柏拉图式的理想中，基本上应该是器乐式的；它应该无缝地融合电子和摇滚乐器；它应该偏向于长而拖沓的结构而不是短的动态变化，以及稳定状态的节奏而不是切分音"。洛杉矶杂志将其描述为
+"催眠的、活塞式的风格，鼓手敲打出紧紧缠绕的节拍，贝斯手敲打出脉动的音符，歌手在荒诞不经的嘈杂声中战战兢兢地唱着这一切"。The Stranger
+称krautrock是 "摇滚和电子音乐的创新重构"。"Motorik
+"拍子是与krautrock相关的鼓手经常使用的4/4拍子，其特点是踢鼓重、脉动的节奏，营造出一种向前流动的感觉。motorik拍子被Can在歌曲
+"Mother Sky
+"中使用，Neu！在他们的首张专辑中使用，后来被其他德国摇滚乐队采用。除了德国摇滚乐之外，它还被广泛应用于许多不同风格的音乐中。根据XLR8R的说法，krautrock这个词经常被评论家用来表示
+"Can和Neu！开创的令人着迷的motorik节奏"，但质疑 "它们仅仅代表了德国Krautrock黄金时代出现的音乐的一小部分"。《卫报》的马特-
+博尔顿（Matt Bolton）也提出了类似的观点，他认为 "Neu！的流线型乐器与Can的折衷实验主义、Amon Dul
+II的即兴空间摇滚或Faust的剪贴式声音拼贴几乎没有共同之处。Kosmische Musik Kosmische Musik（"宇宙音乐"）是一个在
+"krautrock
+"之前就开始常规使用的术语，一些不喜欢英文标签的德国艺术家更喜欢这个术语；今天，它经常与krautrock同义使用.更具体地说，它可以描述20世纪70年代的德国电子音乐，它使用合成器，并结合了与空间或其他世界有关的主题；它也被用作英语术语
+"space rock "的德国模拟术语。
+
+
+
+这种风格通常是工具性的，其特点是 "空间感"、环境音景。艺术家们使用EMS VCS 3和Moog
+Modular等合成器，以及声音处理效果和基于磁带的方法。他们在很大程度上摒弃了摇滚乐的传统，而是借鉴了 "严肃 "的电子乐作品。kosmische
+Musik "这个词是Edgar Froese在1971年Tangerine Dream的专辑Alpha
+Centauri的注释中创造的，或者是唱片制作人Rolf-Ulrich Kaiser为Ash Ra Tempel、Tangerine Dream和Klaus
+Schulze等乐队起的一个市场名称。第二年，Rolf-Ulrich Kaiser的Ohr Records发行了Kosmische Musik
+(1972)，收录了Tangerine Dream、Klaus Schulze、Ash Ra Tempel和Popol
+Vuh等乐队的曲目。德国制作人Conny
+Plank是kosmische声音的核心人物，强调质感、效果处理和基于磁带的编辑技术。Plank监督了Kraftwerk的《Autobahn》、Neu！的《Neu！75》和Cluster的《Zuckerzeit》等kosmische录音。这些艺术家中的一些人后来都与这个词保持了距离。当时其他提议的名称有
+"Berlin School "和 "Dusseldorf
+School"，尽管没有一个是确定的。这种风格后来导致了新时代音乐的发展，它与新时代音乐有几个共同的特点。它也会对后来的electronic music
+和avant-garde rock产生持久的影响。
+
+
+
+**遗产和影响**
+
+Krautrock被证明对其他音乐风格和发展具有很大的影响。早期德国以外的当代爱好者包括Hawkwind，尤其是Dave
+Brock，据说他为英国版的Neu！的第一张专辑Faust的预算发行版The Faust
+Tapes被几个在70年代早期成长起来的音乐家认为是对青少年的影响，比如Julian
+Cope（他一直把克劳特摇滚作为一种影响，并写了一本关于这个主题的Krautrocksampler）。这种风格对David Bowie的《Station
+to Station》（1976）也有很大的影响，它所激发的实验性也导致了他的 "柏林三部曲"。Krautrock对70年代后期British new
+wave 和post-punk的发展也有很大影响，特别是Siouxsie and the Banshees、Public Image
+Ltd.、Cabaret Voltaire、The Fall、Gary Numan、Joy Division、Orchestral Manoeuvres
+in the Dark、Simple Minds和This
+Heat等艺术家。特别是Kraftwerk对80年代的美国电子舞曲影响很大：electro、House、Techno，尤其是Goa trance。Ash
+Ra Tempel对后来70年代的ambient 以及post-rock的发展影响很大。
+
+###本词条内容暂未完善仅供参考，多频百科小编正在火速赶来
+###http://dropinapp.hearinmusic.com/#/ency?typeId=13&dataId=312

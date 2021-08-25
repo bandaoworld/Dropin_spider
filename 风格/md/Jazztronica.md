@@ -1,0 +1,43 @@
+#Jazztronica
+##基本信息
+###发源时间：Early-1990s
+###风格类型：Electronica
+##详情
+Nu
+jazz，又称jazztronica，是jazz和electronic的一种流派。这个术语是在20世纪90年代末被创造出来的，指的是融合了jazz元素和其他音乐风格的音乐，如funk,
+soul, electronic music, 和自由即兴创作。
+
+
+
+概述
+
+根据评论家Tony Brewer的说法，"Nu
+Jazz对于（传统）爵士乐来说，就像朋克或grunge对于摇滚乐一样，当然，歌曲是重点，而不是乐手的个人能力。Nu
+Jazz的乐器从传统到实验，旋律是新鲜的，节奏是新的和有活力的。它让爵士乐再次变得有趣。" Nu爵士乐的范围从将现场乐器与house的节拍结合起来，以St
+Germain、Jazzanova和Fila Brazillia为例，到更多的以乐队为基础的、带有电子元素的即兴爵士乐，如The Cinematic
+Orchestra、Kobol，以及由Bugge Wesseltoft、Jaga Jazzist、Nils Petter Molvaer等人开创的
+"future jazz "风格。尽管著名的Groove Collective和Pamela Williams等著名的Groove&Smooth
+Jazz艺术家的作品模糊了这两种风格之间的区别，但Nu Jazz通常比它的近亲acid jazz更深入地涉足电子领域，acid
+jazz通常更接近earthier funk, soul, 和 rhythm and blues。Nu
+jazz在本质上可以是非常实验性的，在声音和概念上可以有很大的不同。与acid
+jazz不同的是，这种声音脱离了蓝调的根基，而是探索电子音和空灵的爵士感性。Nu jazz强调的 "是音乐本身，而不是乐手个人的灵巧"。  
+21世纪洛杉矶场景中的发展 洛杉矶的艺术家Flying Lotus和他的独立唱片公司Brainfeeder旗下的艺术家们煽动了nu
+jazz的重要风格发展和商业曝光率。虽然nu jazz不是Brainfeeder的主要关注点，但许多内部艺术家如Thundercat，Taylor
+McFerrin，Daedelus和Flying Lotus融合了爵士乐元素和实验性电子声音。2010年4月20日发行的Cosmogramma by
+Flying Lotus邀请了爵士萨克斯手Ravi Coltrane，在 "Arkestry "和 "Germain Haircut
+"中都呈现出了前卫的爵士乐，并以密集的未来主义节奏和质感为支撑。Flying Lotus最近的作品You're Dead!
+于2014年10月20日发行，邀请了萨克斯手Kamasi Washington 和爵士乐泰斗Herbie Hancock
+作为键盘手和合作编曲人分享他的实力，Flying Lotus的两张专辑都被Pitchfork评为
+"最佳新音乐"。2015年11月27日，Daedelus和获得格莱美提名的爵士融合团体Kneebody发行了一张合作专辑《Kneedelus》。成熟的爵士艺术家在21世纪作为nu
+jazz作品的领导者越来越活跃。爵士小号手Dave Douglas和他的三重奏乐队包括Mark Guiliana和Jonathon
+Maron与电子音乐人Shigeto合作，Shigeto用他的环境合成贝斯和质感确立了乐队的音乐主题，由此产生的名为《High
+Risk》的混合体，让人想起Miles Davis的Bitches Brew的实验性声音，并带有迷幻和冷酷的感觉。乐队鼓手Mark
+Guiliana也以自己的名义发行了Nu Jazz作品。表现出明显的受Jojo Mayer & Nerve的影响，很多专辑如2012年的Beat
+Music和2014年的My Life Starts
+Now都融入了合成旋律、贝斯和和声，伴随着原声鼓点，成功复制了电子节拍的细微差别。虽然没有发行录音室录音，但Mark Guiliana与Zach
+Danziger进行了二重奏组合，后者使用样本构建旋律，一旦主题确立并循环，就与Guiliana一起在鼓上创造出节奏感强烈的电子爵士乐。在更微妙的层面上，Brad
+Mehldau在2002年的专辑Largo中，以Mehldau的现代线条为特色，打击乐的原声嘻哈/house节拍，并在 "Sabbath "和 "Free
+Willy "等曲目中偶尔使用电子配音。
+
+###本词条内容暂未完善仅供参考，多频百科小编正在火速赶来
+###http://dropinapp.hearinmusic.com/#/ency?typeId=13&dataId=349

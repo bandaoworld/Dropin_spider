@@ -1,0 +1,28 @@
+#Nu-gaze
+##基本信息
+###发源时间：Early 2000s
+###风格类型：Ethereal Wave
+##详情
+Nu gaze（有时也被称为newgaze）指的是一种起源于2000年的alternative
+rock形式，它直接受到80年代末90年代初以英国为主体的shoegaze场景的影响。2000年代初，当Maps、My Vitriol和Silversun
+Pickups等乐队在大西洋两岸首次出现时，人们对shoegaze的兴趣又重新恢复了。而 "Nu gaze "这个绰号的由来，则要归功于2001年对My
+Vitriol主唱Som Wardner的一次采访，他在采访中否认自己的乐队是shoegaze，而是幽默地说："我想你可以叫我们Nu gaze"。
+
+
+
+根据《The Oxford Student》的一篇文章，该流派的音乐特点是
+"单调的重复段，柔和的人声和墙壁上扭曲凌乱的吉他或合成器"。音乐风格依靠使用各种效果器，如循环、效果踏板和合成器来扭曲音乐。shoegaze复兴很大程度上从
+shoegaze中汲取灵感，但融入了更多现代合成器和鼓轨。
+
+
+
+位于田纳西州纳什维尔的ambient guitar 乐队Hammock以其结合了 shoegaze和ambient rock而闻名。Ulrich
+Schnauss在2007年的专辑《Goodbye》展示了techno 和mbient music对Nu
+Gaze风格的影响。乌尔里希与众多艺术家合作和表演，如Tangerine Dream和The Engineers。
+
+
+
+My Vitriol的Fineline被认为是第一张Nu gaze专辑Silversun Pickups的Panic Switch。
+
+###本词条内容暂未完善仅供参考，多频百科小编正在火速赶来
+###http://dropinapp.hearinmusic.com/#/ency?typeId=13&dataId=320
