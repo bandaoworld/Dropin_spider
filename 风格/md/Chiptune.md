@@ -1,0 +1,208 @@
+#Chiptune
+##基本信息
+###发源时间：Late 1970s – early 1980s
+###风格类型：Game Music
+##详情
+Chiptune，也被称为chip
+music，是一种使用可编程声音发生器(PSG)声音芯片或老式街机、电脑和视频游戏控制台中的合成器制作的电子音乐。这个术语通常用来指追踪器格式的音乐，故意听起来类似于旧的PSG创造的音乐(这是这个术语的原始含义)，以及结合PSG声音与现代音乐风格的音乐。它被描述为"许多流派的解释"，因为任何现有的歌曲可以安排在chiptune风格定义更多的选择乐器和音色，而不是特定的风格元素。
+
+  
+到20世纪80年代初，个人电脑变得比以前更便宜，也更容易使用。这导致了过时的个人电脑和游戏机的泛滥，这些电脑和游戏机已经被消费者抛弃，因为他们升级到更新的机器。从整体上看，消费者对它们的需求并不高，因此它们并不难找到，这使得它们成为一种非常容易获得且负担得起的制作声音或艺术的方法。虽然chiptune基本上是一种地下音乐，但它在20世纪80年代和21世纪也有过一段不太受欢迎的时期，并影响了电子舞曲的发展。
+
+
+
+波形发生器是声音合成系统中的一个基本模块。波形发生器通常会产生一个固定或可变音色和可变音高的基本几何波形。常见的波形发生器配置通常包括两个或三个简单的波形，通常是一个单一的伪随机噪声发生器（PRNG）。可用的波形通常包括脉冲波（其音色可以通过修改占空比来改变）、方波（一种对称的脉冲波，只产生奇数泛音）、三角波（具有固定的音色，只包含奇数谐波，但比方波柔和）和锯齿波（具有明亮的沙哑音色，包含奇数和偶数谐波）。采用这种技术的系统有两个显著的例子，包括任天堂Game
+Boy便携式游戏机和Commodore
+64个人电脑。游戏机使用两个脉冲通道（可在12.5%、25%、50%和75%波占空比之间切换），一个用于4位脉冲编码调制（PCM）回放的通道，以及一个伪随机噪声发生器。而Commodore
+64则使用了MOS技术的SID芯片，它提供了3个通道，每个通道可在脉冲、锯齿、三角和噪声之间切换。与Game Boy不同的是，Commodore
+64的脉冲通道允许完全控制波占空比。SID是一个技术上非常先进的芯片，提供了许多其他功能，包括环形调制和可调谐振滤波器。
+
+
+
+由于那些原始芯片中的声音数量有限，主要的挑战之一是用它们制作丰富的多声部音乐。通常的模仿方法是通过快速琶音，这是chiptune音乐最相关的特征之一（当然，还有其电子音色）。
+
+
+
+一些老的系统以一个简单的呼机作为唯一的声音输出，如最初的ZX Spectrum和IBM
+PC；尽管如此，许多熟练的程序员还是能够用这种裸露的硬件制作出意想不到的丰富音乐，声音完全由系统的CPU通过直接控制传呼机产生。
+
+
+
+历史
+
+Chiptune最早可以在计算机音乐的早期历史中找到。1951年，计算机CSIRAC和Ferranti Mark
+1被用来在公共场合进行实时合成数字音乐。最早的商业计算机音乐专辑之一来自于1978年8月25日举行的第一届费城计算机音乐节，作为个人计算机'78展会的一部分。第一届费城电脑音乐节的录音于1979年由Creative
+Computing出版。全球电视节目《科学国际》(1976-1979)将该音乐记入PDP-11/10。
+
+
+
+视频游戏起源
+
+Chiptune音乐开始出现在视频街机游戏的黄金时代制作的视频游戏音乐。一个早期的例子是Tomohiro Nishikado的街机游戏Gun
+Fight（1975年）的开场曲。第一款使用连续背景音乐的电子游戏是西门友弘1978年发行的Space
+Invaders，该游戏有四个简单的半音阶降调低音音符循环重复，不过它是动态的，并与玩家互动，随着敌人向玩家的降临而增加速度。"第一个采用连续旋律背景音乐的电子游戏是Nishikado在1980年发行的街机游戏《Rally-X》，它的特点是在游戏过程中连续重复的简单曲调。它也是最早使用数模转换器产生采样声音的游戏之一。
+
+
+
+同年，第一款以语音合成为特色的电子游戏也发布了，Sunsoft的射击街机游戏Stratovox。在20世纪70年代末，先锋合成流行/电子舞曲团体Yellow
+Magic Orchestra（YMO）正在使用计算机制作合成音乐。他们早期的一些音乐，包括1978年的首张专辑，都是从流行的街机游戏中取样，如Space
+Invaders 和Gun
+Fight。除了将当代电子游戏的声音融入到他们的音乐中，乐队后来还对8-bit和16-bit时代的电子游戏和chiptune音乐产生了重大影响。
+例如，Sega的1982年的街机游戏Super Locomotive就收录了YMO的
+"Rydeen"（1979年），后来的几款电脑游戏也翻唱了这首歌，如Rabbit软件公司的《Trooper Truck》（1983年），以及Daley
+Thompson的《Decathlon》（1984年）和Martin Galway编曲的《Stryker's
+Run》（1986年）。1984年，前YMO成员细野晴美发行了一张完全由Namco街机游戏样本制作的专辑，名为《Video Game
+Music》，这是一张早期的chiptune唱片，也是第一张电子游戏音乐专辑，其中收录了Namco的chiptune作曲家的作品。Toshio
+Kai（1980年的《吃豆人》）、Nobuyuki Ohnogi（1981年的《Galaga》、《New
+Rally-X》和《Bosconian》，1982年的《Pole Position》）和Yuriko Keino（1982年的《Dig
+Dug》和《Xevious》）。
+
+
+
+FM合成
+
+Chiptune的一大进步是引入了频率调制合成（FM合成），最早由雅马哈公司为其数字合成器和FM声音芯片进行商业化发布，从20世纪80年代初开始出现在街机机中，当时利用FM合成的街机游戏作曲家包括Konami的Miki
+Higashino（Gradius，Yie-Ar Kung Fu，Teenage Mutant Ninja Turtles）和Sega的Hiroshi
+Kawaguchi（Space Harrier，Hang-On，Out
+Run）。到了20世纪80年代初，随着数字调频合成声的引入，个人电脑游戏音乐的重大改进成为可能。雅马哈公司在80年代初开始为日本的NEC
+PC-8801和PC-9801等电脑生产FM合成板，到80年代中期，PC-8801和FM-7都内置了FM声音。这使得电脑游戏音乐比内部扬声器发出的简单的蜂鸣声具有更大的复杂性。80年代初，日本个人电脑如NEC
+PC-88和PC-98采用了音频编程语言，如音乐宏语言（Music Macro
+Language，MML）和MIDI接口，最常用于制作视频游戏音乐。Fujitsu还在1985年发布了FM-7的FM声音编辑器软件，为用户提供了一个方便的界面来制作和编辑合成音乐。
+
+
+
+1987年，当加拿大的Ad Lib公司为IBM个人电脑推出AdLib音乐合成卡时，西方计算机开始使用调频合成，而新加坡的Creative
+Labs公司在1989年将AdLib卡的声音芯片纳入其Sound Blaster卡。这两种卡在80年代末90年代初被MS-
+DOS游戏开发者广泛支持。调音台广泛采用FM合成，这将是后来16位时代的重大进步之一，当时16位街机机已经使用了多个FM合成芯片。尽管后来音频技术有了很大的进步，但他还是继续使用老式的PC-8801硬件为《Streets
+of Rage》(1991-1994)和《Etrian Odyssey》(2007年至今)等系列游戏制作chiptune配乐。他为The Revenge
+of Shinobi (1989)所做的配乐以house和progressive techno作曲为特色，融合了电子舞曲和传统日本音乐.Streets of
+Rage 2 (1992)的配乐被认为是 "革命性的 "和 "超前的"，因为它
+"融合了狂妄的house合成器、肮脏的电子朋克和trance的电子质感，在夜总会和电子游戏中感觉一样舒服。 "在Streets of
+Rage3（1994年）的原声带中，Koshiro创造了一种名为 "自动作曲系统 "的新作曲方法，以制作
+"快节奏的技术乐像jungle一样"，从而自动生成创新和实验性的声音。此外，他还为Dragon Slayer, Ys, Shinobi,
+和ActRaiser等系列作品创作了chiptune背景音乐。
+
+
+
+另一位重要的FM合成器作曲家是已故的Ryu Umemoto，他为各种视觉小说和射击游戏创作了chiptune背景音乐。
+
+
+
+SID音乐文化
+
+后来，一些demo 团体转而使用自己的音乐来代替翻录的游戏音乐。1986年，Jeroen "Red "Kimmel学习了Rob
+Hubbard的玩家套路，并将其用于原创演示歌曲，然后在1987年写出了自己的套路。爱好者也在编写自己的专用音乐编辑软件，如Chris
+Hulsbeck的Soundmonitor，在1986年的德国C-64杂志64'er上以打字列表的形式发布。SID音乐创作的实践与Commodore
+64的demoscene相结合，一直无缝地延续到今天。High Voltage SID
+Collection是一个全面的SID音乐档案库，收录了4万多首SID音乐。跟踪器chiptunes Commodore
+Amiga（1985年），以其波表和基于采样的声音合成，使微机音乐的概念与普通芯片合成的声音拉开了距离。Amiga跟踪音乐软件，从Karsten
+Obarski的Ultimate
+Soundtracker（1987）开始，激发了大量电脑爱好者创作电脑音乐的热情。作为蓬勃发展的tracker音乐文化的一个分支，一种让人想起Commodore
+64 SID音乐的tracker音乐诞生了。这种类型的音乐后来被称为 "chiptunes"（指Amiga的芯片存储器，即定制芯片可以访问的那部分存储器）。
+
+
+
+最早的tracker
+
+chiptunes例子可以追溯到1989年，由demoscene音乐人4mat、Baroque、TDK、Turtle和Duz创作。Tracker
+chiptunes是基于非常短的循环波形，并由跟踪器效果调制，如琶音、颤音和portamento。像Random
+Voice这样的音乐人后来加入了快速重复一系列偏移波形的技术，以便用跟踪器完全模拟一个单一的SID乐器。小量的采样数据使得tracker
+chiptunes比大多数其他类型的tracker音乐更节省空间，这使得它们对尺寸有限的demoscene
+demos和破解前奏很有吸引力。追踪器chiptunes也被普遍用于其他warez场景的可执行文件中，如keygens。现在，"chiptune
+"一词也被用来涵盖使用实际芯片合成的芯片音乐，但一些资料，如Amiga音乐保存项目，仍然将chiptune专门定义为一个小型跟踪器模块。
+
+
+
+主流流行
+
+chiptune音乐的鼎盛时期是20世纪80年代。最早的完全由采样街机游戏声音制作的商业chiptune唱片从80年代中期就已经存在，早期的例子是细野晴美在1984年的Video
+Game
+Music。虽然完全由chiptune制作的唱片在当时并不常见，但在电玩游戏的黄金时代（70年代末到80年代中期），许多流行摇滚、嘻哈和电子音乐流派的主流音乐人都在采样电玩游戏的声音和哔哔声，早在1978年Yellow
+Magic Orchestra的Computer Game就已经出现了。Buckner & Garcia的Pac-Man
+Fever和同名专辑是1982年的大热作品。
+
+
+
+街机游戏的声音是电音流派的基础元素之一，它又启发了许多其他电子舞曲流派，如Techno和House音乐，有时被称为 "bleep music"。Space
+Invaders启发了Player One的 "Space Invaders"(1979)，这又为Jesse Saunders的 "On and
+On"(1984)提供了基调，这是第一首芝加哥的House音乐.Warp的唱片 "Testone"(1990)由Sweet
+Exorcist采样了Yellow Magic Orchestra的 "Computer Game
+"中的电子游戏声音，并在90年代早期定义了谢菲尔德的bleep
+techno场景。然而，在20世纪80年代之后，chiptune音乐的流行度开始下降。从那时起，直到2000年代，chiptune很少在现场表演，歌曲几乎只作为可执行程序和其他计算机文件格式传播。最早的一些唱片公司发行的pure
+chip music 的例子可以在20世纪90年代末找到。Chiptune音乐在20世纪90年代末又开始流行起来。第一张电音唱片，I-F的 "Space
+Invaders Are Smoking Grass"(1997)，被描述为
+"在向Atari时代的喜剧致敬的声码中的爆裂电音"。到了2000年代中期，8-bit chip
+music开始在主流流行音乐中卷土重来，当时Beck（比如2005年的歌曲 "Girl"）、The Killers（比如2004年的歌曲 "On
+Top"）、No Doubt与歌曲 "Running"，尤其是The Postal Service在他们的许多歌曲中都使用了8-bit chip
+music。2003年，J-pop女子组合Perfume与制作人中田康孝一起开始制作结合chiptunes、synthpop和electro
+house的音乐；他们的突破是在2007年发行的《Game》中，这使得其他日本女歌手也开始使用类似的电子风格，包括Aira
+Mitsuki、immi、Mizca、SAWA、Saori@destiny和Sweet Vacation。
+
+
+
+Electro
+house制作人Deadmau5在90年代末开始了他的职业生涯，创作受到chiptune和demoscene运动影响的声音。2006年完成了三张自己发行的合辑：Project
+56、deadmau5 Circa 1998-2002和A Little Oblique。2007年，完全由chiptune制作的专辑《8-Bit
+Operators:
+Kraftwerk的音乐》在主流大厂牌Astralwerks/EMI唱片公司发行，其中包括几位著名的著名Chiptune音乐人，包括Nanoloop创作者Oliver
+Wittchow，以及以艺术家Role Model身份出现的LittleSoundDJ创作者Johan Kotlinski。Kraftwerk创始人Ralf
+Hutter亲自挑选了这些曲目.2007年2月24日发行了一张12英寸的黑胶单曲版，作为全长CD的前奏，并在Billboard杂志热舞单曲销售榜上高达17位。2007年3月，发行的CD在CMJ
+RPM（北美高校电子乐）排行榜上高居第一。爱丁堡出生的电子音乐人Unicorn Kid帮助chiptune进一步普及，尤其是EP《Tidal
+Rave》中的歌曲《True Love Fantasy》和其他歌曲在深夜电台播放，包括BBC Radio 1电台，他在2011年的Festive
+Festival上现场演奏。在加拿大，Eightcubed和Crystal
+Castles通过多伦多地下俱乐部现场进一步帮助知名度，并在2008年的MuchMusic上首发了音乐视频 "Heart Invaders"，单曲
+"Alice Practice "在NME "过去15年150首最佳曲目 "中排名第29位，给人留下了深刻的印象。2000年代末，在Game
+Boy的LittleSoundDJ等软件的发布推动下，掀起了新一轮的chiptune文化浪潮。这种新的文化比demoscene和tracker文化更强调现场表演和唱片发行，而新的艺术家往往只是远远地意识到这一点。近年来，8-bit
+chiptune声音，或 "电子游戏节奏"，已经被一些主流流行艺术家使用。例子包括Kesha（最著名的是在2010年最畅销的单曲 "Tik Tok
+"中）、50 Cent的热门单曲 "Ayo Technology"、Robyn、Snoop Dogg、Eminem（例如
+"Hellbound"）、Nelly Furtado和Timbaland（见Timbaland 剽窃争议）。
+
+
+
+当代英国电子音乐中也可以听到电子游戏声音的元素，如Dizzee Rascal和Kieran
+Hebden，以及重金属乐队如DragonForce。Grime音乐尤其是取样于在东伦敦流行的电子游戏中的锯齿波声音，一些dubstep制作人也受到电子游戏chiptunes的影响，尤其是Yuzo
+Koshiro的作品。2010年，BBC的一篇文章称，"老派游戏的景象和声音"（以Frogger和大金刚为例）"现在正成为主流音乐和文化的一部分。"Complextro的先驱Porter
+Robinson 也将电子游戏的声音，或者说chiptunes，与20世纪80年代的模拟合成音乐一起，作为他的音乐风格的影响。当代chiptune音乐 由于
+"compos
+"的举行，团体发布音乐磁盘，以及与cracktro/demo场景，Chiptune场景已经变得相关。新的跟踪工具被用来让技术含量不高的音乐人获得Chiptune声音。NES平台上有MidiNES，这个卡匣可以将系统变成一个完整的硬件MIDI控制合成器。最近，针对Commodore
+64推出了Mssiah，它与MidiNES非常相似，但具有更大的参数控制、排序、模拟鼓仿真和有限的样本播放。Commodore
+PET有开源的PetSynth软件，该软件使用PET的6522芯片来发声，可以让电脑像钢琴键盘一样弹奏，并具有许多效果。
+
+
+
+在DOS平台上，Fast
+Tracker是最著名的chiptune制作者之一，因为它可以用鼠标制作手绘采样。Chiptune音乐艺术家Pixelh8还设计了Game
+Boy的Music Tech以及Game Boy Advance和Nintendo DS的Pro
+Performer等音乐软件，将这两款机器变成了实时合成器。Chiptune已经回归到21世纪的游戏中，无论是完全的Chiptune风格，还是在音乐中使用Chiptune样本。在配乐中采用Chiptune元素的热门游戏包括《Mega
+Man Battle Network》、《Super Meat Boy》、《Duck Game》、《VVVVVV》、《Super
+Hexagon》、《Fez》、《Shovel Knight》和《Undertale》.此外，the Electronic Frontier
+Foundation 在2010年12月使用了一款由crashfaster制作的8-bit
+的仿8位游戏来展示其当年的显著法律成就。2012年3月，Smithsonian 美国艺术博物馆的 "电子游戏的艺术 "展览开幕，入口处有艺术家8 Bit
+Weapon & ComputeHer的Chiptune配乐。8 Bit Weapon还为展览创作了一首名为 "The art of Video Games
+Anthem "的音乐。2015年9月，首部以DOMO（NHK）为原型的音乐合集《DOMO Loves
+Chiptune》在iTunes、亚马逊以及各大音乐流媒体服务上发布，合集中收录了Anamanaguchi和Disasterpeace等Chiptune风格的顶级艺术家。Domo
+Loves Chiptune还收录了Mystery Mansion对Domo主题曲的首次Chiptune混音。纽约市的Chiptune场景也是2
+Player Productions拍摄的纪录片《Reformat the Planet》的主题。这部影片是Southwest在2008 South
+音乐节的官方选择。
+
+
+
+在过去的几年里，有很多电视栏目都是以chiptunes和chip music艺人为主题的。2005年4月11日，8 Bit Weapon在G4的Attack
+of the Show现场直播第5058集播放了他们的歌曲《Bombs Away》和《Gameboy
+Rocker》。2008年，作为对Masterpiece Theatre的模仿，Boing Boing Video的SPAMasterpiece
+Theater的前四集以Jean-Joseph Mouret的《Rondeau: Hamhocks Buttermilk Johnson的
+"Fanfare"(1735)。
+
+
+
+另一个chipmusic功能包括little-scale，Dot.AY，Ten Thousand Free
+Men和他们的家庭以及ABC澳大利亚电视连续剧Good Game中的Jim
+Cuomo。现场表演MAGFest和Chipspace活动在世界各地举行，重点是庆祝和认可chiptune音乐。在美国，在超级MAGFest--
+一个每年举办各种电子游戏相关活动的大会期间，goto80和Chipzel等受欢迎的chiptune
+音乐人曾在音乐厅主舞台上表演。以chiptune为中心的主舞台表演（恰如其分地被命名为 "Chip
+Rave"）通常发生在大会的第三天，在音乐厅内，已经有无数著名的面孔。超级MAGFest还举办了一个名为Chipspace的连续场地，在这里，chiptune社区的参与者们可以通过开放的麦克风系统上台表演他们的音乐.最初由Chiptunes=WIN的创始人Brandon
+L.
+Hood发起，并由geekbeatan维护。Hood发起并由geekbeatradio维护，Chipspace在MAGFest的生命过程中不断发展，拉近了chiptune粉丝之间的距离，在这些日常表演中，有由Chiptunes=WIN、geekbeatradio等chiptune网红策划的showcases。
+
+###本词条内容暂未完善仅供参考，多频百科小编正在火速赶来
+###http://dropinapp.hearinmusic.com/#/ency?typeId=13&dataId=368
