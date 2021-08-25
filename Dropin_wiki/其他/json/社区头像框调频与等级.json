@@ -1,0 +1,23 @@
+{
+ "pageNum": 1,
+ "pageSize": 10,
+ "params": {},
+ "relationEncy": "[{\"id\":36744,\"typeId\":11,\"dataId\":595,\"name\":\"社区信号与发布\",\"url\":\"http://dropinapp.hearinmusic.com/#/ency?typeId=11&dataId=595\"},{\"id\":36751,\"typeId\":11,\"dataId\":596,\"name\":\"社区评论、点头和捕捉\",\"url\":\"http://dropinapp.hearinmusic.com/#/ency?typeId=11&dataId=596\"},{\"id\":36752,\"typeId\":11,\"dataId\":597,\"name\":\"社区频段和搜索\",\"url\":\"http://dropinapp.hearinmusic.com/#/ency?typeId=11&dataId=597\"},{\"id\":36753,\"typeId\":11,\"dataId\":598,\"name\":\"社区反馈和举报\",\"url\":\"http://dropinapp.hearinmusic.com/#/ency?typeId=11&dataId=598\"},{\"id\":36755,\"typeId\":11,\"dataId\":600,\"name\":\"社区互动答题模块\",\"url\":\"http://dropinapp.hearinmusic.com/#/ency?typeId=11&dataId=600\"}]",
+ "content": "<p><strong><em>&mdash;&mdash;&ldquo;DROPIN社区中的每个人，都是独一无二的频率</em></strong><strong><em>&rdquo;</em></strong></p>\n<p>&nbsp;</p>\n<p>正如声音一般，每个人都是独一无二的频率，而DROPIN多频，正是由这样丰富多彩的频率组成的社区。为此，我们希望为社区内的每位DROPUCER提供一个特别的参数，用<strong>频率</strong>来描述自己。20~20000Hz是人耳可以听见的频率范围，也许其中的某一个频率，就能反映出你最真实的状态。</p>\n<p>&nbsp;</p>\n<p><strong>头像框调频</strong></p>\n<p>从&ldquo;本体&rdquo;页面点击个人头像，即可从弹出的功能栏中进入调频功能。我们可以通过调频功能调节自己的频率数值和颜色，并将直观体现在头像框上，让我们可以快速展示自己和了解他人的频率。</p>\n<p style=\"text-align: center;\"><img src=\"https://duopin-community.oss-cn-shenzhen.aliyuncs.com/image/2021/8/l2qi50qld74fu1m797tb.gif\" alt=\"\" width=\"350\" height=\"758\" /></p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p style=\"text-align: left;\"><strong>DROPUCER等级机制</strong></p>\n<p style=\"text-align: left;\">在社区内活跃可以积累&ldquo;分贝值&rdquo;，从&ldquo;Intro 1级&rdquo;萌新一路晋升至&ldquo;Drop 3级&rdquo;大佬！个人分贝值和详细计分规则可点击&ldquo;本体页面&rdquo;-用户昵称右侧的等级标识查看。</p>\n<p style=\"text-align: center;\"><img src=\"https://duopin-community.oss-cn-shenzhen.aliyuncs.com/image/2021/8/fob81midbmz4c71k4j2g.gif\" alt=\"\" width=\"350\" height=\"758\" /></p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p style=\"text-align: left;\">期待独一无二的你能为多频社区带来独特的精彩！</p>",
+ "contentEn": "",
+ "remarks": "本词条内容由 @多频官方团队 编辑",
+ "remarksEn": "本词条内容暂未完善仅供参考，多频百科小编正在火速赶来",
+ "status": 1,
+ "clickNum": 66,
+ "deleted": 0,
+ "lang": 0,
+ "chooseLang": false,
+ "id": 599,
+ "name": "社区头像框调频与等级",
+ "categoryText": "多频社区",
+ "descriptions": "如何玩转头像框调频和社区等级",
+ "typeId": 11,
+ "typeName": "其他",
+ "dataId": 599,
+ "url": "http://dropinapp.hearinmusic.com/#/ency?typeId=11&dataId=599"
+}
