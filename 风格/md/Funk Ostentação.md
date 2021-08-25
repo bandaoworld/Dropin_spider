@@ -1,0 +1,30 @@
+#Funk Ostentação
+##基本信息
+###发源时间：Mid to late 2000s
+###风格类型：Funk Carioca
+##详情
+Funk paulista，又称funk ostentaçao（来自葡萄牙语：Ostentation
+funk），是2008年在圣保罗创立的一种巴西音乐风格。歌曲中涉及的中心主题是夸耀性消费，许多funk
+ostentaçao艺术家唱的是汽车、摩托车、酒水、女人，以及离开贫民窟、实现人生目标的野心。
+
+
+
+虽然当时里约热内卢的主流抒情主题是犯罪和缺乏社会正义，但MCs Backdi和Bio G3在2008年9月录制的第一首Funk ostentaçao歌曲
+"Bonde da Juju"，确立了新流派的对立主题--炫耀。随后在圣保罗州举办了几个funk
+ostentaçao音乐节，运动开始发展。2011年年中，MC Boy do Charmes的 "Megane "视频在全国首次亮相。很明显，Funk
+Ostentaçao最好的表现形式是视听形式，摄影师KondZilla成为第一个制作视频的人，这些视频受到了粉丝们的热烈欢迎。在2012年和2013年巴西十大最受欢迎的音乐视频中，有三个是funk
+ostentaçao。
+
+
+
+2013年7月，Daniel Pellegrine a.k.a. MC
+Daleste在坎皮纳斯的舞台上被枪杀，它被确立为巴西最受欢迎的音乐类型之一。在他去世时，他一直是该流派的主要支持者之一，其广泛的媒体报道包括其他funk艺术家的电视致敬。
+
+
+
+Funk ostentaçao与巴西新兴的新中产阶级（Nova classe media）紧密联系在一起，他们的经济状况与MC Guime、MC
+Lon、MC Gui和MC Pocahontas等主要Funk ostentaçao艺术家的经济状况一起得到改善。
+
+###本词条汉字内容由 @多频百科团队 翻译+编辑
+原文译自 https://en.wikipedia.org/wiki/Funk_ostenta%C3%A7%C3%A3o
+###http://dropinapp.hearinmusic.com/#/ency?typeId=13&dataId=290
