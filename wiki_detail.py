@@ -55,10 +55,10 @@ class dropin_wiki_detail(object):
     def save_json(self, wiki, typeId):
         '''保存json模块'''
         path = f'./{self.typeId_chinese(typeId)}'
-        if not os.path.exists(f'{path}/json'):
-                os.mkdir(f'{path}/json')
+        if not os.path.exists(f'{path}'):
+                os.mkdir(f'{path}')
                 
-        json_path = f"{path}/json/{wiki['name']}.json"
+        json_path = f"{path}/{wiki['name']}.json"
         fp = open(json_path, 'w', encoding='utf8')
         json.dump(wiki, fp = fp, ensure_ascii=False, indent=True)
         print(f"{wiki['name']}.json 保存完成")

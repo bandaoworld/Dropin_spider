@@ -1,5 +1,6 @@
 import requests
 import json
+import os
 #from fake_useragent import UserAgent
 #from wiki_detail import *
 
@@ -36,16 +37,20 @@ class dropin_wiki(object):
         '''保存某个typeId下dataId对应关系'''
         typeId_dict = {
             '12':'艺人',#(最大10000)
-            '13':'风格',#(最大379)
-            '14':'厂牌',#(最大1933)
-            '15':'场所',#(最大40)
-            '16':'电音节',#(最大200)
+            '13':'风格',#(最大379)   397
+            '14':'厂牌',#(最大1933)  2166
+            '15':'场所',#(最大40)    610
+            '16':'电音节',#(最大200) 212
             '17':'事件',#(最大3)
-            '11':'其他'#(最大45)
+            '11':'其他'#(最大45)     623
         }
         info_dict = {dataId_list[count]:name_list[count] for count in range(len(dataId_list))}
-        #print(info_dict)
-        json_path = f"./{typeId_dict[typeId]}.json"
+        print(info_dict)
+        basedir = os.path.abspath(os.path.dirname(__file__))
+        if not os.path.exists(os.path.join(basedir, 'dataId_json')):
+            os.mkdir(os.path.join(basedir, 'dataId_json'))
+        
+        json_path = f"dataId_json/{typeId_dict[typeId]}.json"
         fp = open(json_path, 'w', encoding='utf8')
         json.dump(info_dict, fp = fp, ensure_ascii=False, indent=4, sort_keys=True)
         
@@ -57,7 +62,7 @@ class dropin_wiki(object):
 
 if __name__ == "__main__":
     dropin = dropin_wiki()
-    dropin.run('12')
+    dropin.run('11')
     print('over!')
 
 
